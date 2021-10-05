@@ -34,9 +34,9 @@ Depois de criado o repo e os Branches, cada membro da equipe deve copiar o bloco
 
 ## Fato sobre <nome do dev>
 
-1. O seu Nome;
-2. Um pouco sobre você;
-3. Comentário sobre o seu relacionamento com a TI;
+1. igor
+2. Formado em Ti, gosto de esportes.
+3. Sempre me vi dentro da area de TI, atualmente trabalho com processamento de dados
 ```
 Cada entrada deverá ter ao menos:
 
